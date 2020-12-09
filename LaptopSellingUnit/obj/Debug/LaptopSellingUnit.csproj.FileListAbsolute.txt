@@ -1,0 +1,7 @@
+C:\Users\Mudassir\Desktop\umar\LaptopSellingUnit\LaptopSellingUnit\bin\Debug\LaptopSellingUnit.exe.config
+C:\Users\Mudassir\Desktop\umar\LaptopSellingUnit\LaptopSellingUnit\bin\Debug\LaptopSellingUnit.exe
+C:\Users\Mudassir\Desktop\umar\LaptopSellingUnit\LaptopSellingUnit\bin\Debug\LaptopSellingUnit.pdb
+C:\Users\Mudassir\Desktop\umar\LaptopSellingUnit\LaptopSellingUnit\obj\Debug\LaptopSellingUnit.csprojAssemblyReference.cache
+C:\Users\Mudassir\Desktop\umar\LaptopSellingUnit\LaptopSellingUnit\obj\Debug\LaptopSellingUnit.csproj.CoreCompileInputs.cache
+C:\Users\Mudassir\Desktop\umar\LaptopSellingUnit\LaptopSellingUnit\obj\Debug\LaptopSellingUnit.exe
+C:\Users\Mudassir\Desktop\umar\LaptopSellingUnit\LaptopSellingUnit\obj\Debug\LaptopSellingUnit.pdb
